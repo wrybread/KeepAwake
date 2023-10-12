@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">domain</string>
+    <string name="adb_command_executed">Keep Awake executed the work, result success: %1$s</string>
+    <string name="keep_awake_channel_id">keep-awake-notification-channel</string>
+    <string name="channel_description">This notification channel is used to display the current status of the Keep Awake app, it shows the status of the last command i.e. whether it was successful or not.</string>
+    <integer name="notification_default_id">1</integer>
+</resources>

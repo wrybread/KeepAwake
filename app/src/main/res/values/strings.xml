@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Keep Awake</string>
+    <string name="adb_command_executed">Keep Awake executed the work, result success: %1$s</string>
+</resources>
