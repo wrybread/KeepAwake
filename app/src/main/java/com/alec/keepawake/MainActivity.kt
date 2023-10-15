@@ -104,12 +104,13 @@ fun Greeting(
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
         Text(
-            text = "Keep Awake v4!\nYou can close this window now.",
+            //%%
+            text = "Keep Awake v1.1 by Wrybread!\n You can press the Home button now,\n KeepAwake will continue running in the background.\n It'll run automatically when your Chromecast reboots,\n  uninstall it when you no longer need it.",
             modifier = Modifier,
             fontSize = 22.sp,
             fontWeight = FontWeight.Bold,
             textAlign = TextAlign.Center,
-            maxLines = 2,
+            maxLines = 6,
         )
     }
 }
