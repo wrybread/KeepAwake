@@ -5,6 +5,6 @@ It works by simulating a touch of the Chromecast UI every 15 minutes.
 
 The usual workaround to this problem is to enable "stay awake" in developer options, but that prevents the screensaver from running, and I'm using the screensaver.
 
-To use, just sideload the app and run it once and it'll continue running in the background, even through a reboot. To disable it just uninstall it.
+To use, just download the APK (see above) or compile it yourself if you prefer, then sideload the app to your Chromecast and run it once and it'll continue running in the background, even through a reboot. To disable it just uninstall it.
 
 
